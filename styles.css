@@ -1,0 +1,15 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    float: right;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+}
+
+#topRow {
+    border-bottom: 2px solid black;
+}
